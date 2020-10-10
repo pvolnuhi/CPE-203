@@ -1,0 +1,6 @@
+In my functions class, I only left the clamp method and a variable called random. 
+I left clamp because it didn't seem to have an object as one of its parameters, therefore making it difficult to think that it belongs to some class. The random variable didn't serve much use, since I could always call the MATH.rand by importing within any of the classes. 
+
+The method getCurrentImage() was found to be used in both Background and Entity classes, since one acts for how those images might behave in the virtual world (Entity), and the other for how they might be displayed (Background).
+
+The cast majority of the methods went towards the Entity class.
