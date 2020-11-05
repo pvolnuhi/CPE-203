@@ -1,0 +1,19 @@
+1. World Changing Event: Visualization
+
+    - When clicking on the Virtual World, SpongeBob will appear dancing in front of his Pineapple Home
+    - SpongeBob will wait patiently until the Octopus is Full (OctoFull) and run up to him and kill him
+    - As soon as he kills the OctoFull, he leaves a Krabby-Patty (Patty) in its place and himself also dies
+    - Then as Mr. Krabs appears (Crab), you can click on him and Patrick will appear riding on a Seahorse in front of the Pineapple house as well
+    - Patrick will replace Mr. Krabs and run to the Sgrass, or under his Rock (Rock)
+
+2. World Changing Event: Effect
+
+     - SpongeBob will become a Krabby Patty after killing off the OctoFull
+     - SeaGrass will turn into Patrick's Rock
+     - Mr. Krabs (Crabs) will be removed when clicked and replaced with Patrick
+
+3. World Changing Event: New Entity
+       - Rock becomes new SeaGrass
+       - SpongeBob kills off OctoFulls
+       - Patrick appears when clicking on Mr. Krabs and rides back home to SeaGrass under his rock
+
